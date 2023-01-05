@@ -1,2 +1,2 @@
-# Animated_Logo
+# 3D_Animated_Logo_React_three_fiber
 Created with CodeSandbox
